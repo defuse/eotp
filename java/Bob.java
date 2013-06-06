@@ -1,4 +1,3 @@
-package nl.coolview.java.app;
 
 public class Bob extends Crypto {
 

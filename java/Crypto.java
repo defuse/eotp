@@ -1,4 +1,3 @@
-package nl.coolview.java.app;
 
 import java.io.ByteArrayOutputStream;
 import java.security.InvalidKeyException;

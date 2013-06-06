@@ -1,4 +1,3 @@
-package nl.coolview.java.app;
 
 import java.security.InvalidKeyException;
 import java.security.NoSuchAlgorithmException;
