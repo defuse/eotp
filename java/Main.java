@@ -78,8 +78,8 @@ public class Main {
 			bob.inc(bob.counter);
 
 			// Alice does the same
-			alice.sequence = alice.mac(alice.sequence, alice.concat(alice.counter, alice.salt));
-			alice.inc(alice.counter);
+			// alice.sequence = alice.mac(alice.sequence, alice.concat(alice.counter, alice.salt));
+			// alice.inc(alice.counter);
 
 			//Bob destroys of Kt and the previous Ks.
 			//Bob uses Km to encrypt and decrypt Alice's data and destroys it when finished.
